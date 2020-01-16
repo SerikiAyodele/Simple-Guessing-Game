@@ -17,7 +17,7 @@ public class SimpleGuessingGame {
         int objectChooser;
         String userChosenBox;
         String[] computerChosenBox = {"A", "B"};
-        String [] object = {"brand new iPhone", "golden purse", "$200,000 check"};
+        String [] object = {"brand new iPhone", "golden purse", "$200,000 cheque"};
         
         while(true)//Infinite loop
         {
